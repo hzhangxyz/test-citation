@@ -6,21 +6,12 @@ authors:
     family-names: Zhang
   - given-names: Shaojun
     family-names: Dong
-    email: sj.dong@iai.ustc.edu.cn
   - given-names: Chao
     family-names: Wang
   - given-names: Meng
     family-names: Zhang
   - given-names: Lixin
     family-names: He
-    email: helx@ustc.edu.cn
-contact:
-  - given-names: Shaojun
-    family-names: Dong
-    email: sj.dong@iai.ustc.edu.cn
-  - given-names: Lixin
-    family-names: He
-    email: helx@ustc.edu.cn
 date-released: 2024-09-06
 keywords:
   - peps
@@ -67,3 +58,20 @@ references:
       - given-names: Lixin
         family-names: He
         email: helx@ustc.edu.cn
+    commit: f1c5b4f1ce6a639ea36fb12fa4788d377f418055
+    contact:
+      - given-names: Shaojun
+        family-names: Dong
+        email: sj.dong@iai.ustc.edu.cn
+      - given-names: Lixin
+        family-names: He
+        email: helx@ustc.edu.cn
+    date-published: 2024-08-23
+    doi: 10.1016/j.cpc.2024.109355
+    issn: 0010-4655
+    journal: Computer Physics Communications
+    keywords:
+      - Tensor network states
+      - Fermion
+      - Symmetry tensors
+    languages: en
