@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it using these metadata.
-title: TNSP, A framework supporting symmetry and fermion tensors for tensor network state methods
+title: TNSP\: A framework supporting symmetry and fermion tensors for tensor network state methods
 authors:
   - family-names: Zhang
     given-names: Hao
