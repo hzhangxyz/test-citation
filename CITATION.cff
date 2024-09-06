@@ -1,5 +1,5 @@
 cff-version: 1.0.0
 message: "Please cite the following works when using this software."
 references:
-  - type: article
-    title: 'TNSP: A framework supporting symmetry and fermion tensors for tensor network state methods'
+  - type: software
+    title: TNSP A framework supporting symmetry and fermion tensors for tensor network state methods
