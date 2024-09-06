@@ -1,33 +1,61 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
-cff-version: 1.2.0
-title: TNSP
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
-authors:
-  - given-names: Hao
-    family-names: Zhang
-  - given-names: Shaojun
-    family-names: Dong
-    email: sj.dong@iai.ustc.edu.cn
-  - given-names: Chao
-    family-names: Wang
-  - given-names: Meng
-    family-names: Zhang
-  - given-names: Lixin
-    family-names: He
-    email: helx@ustc.edu.cn
-identifiers:
-  - type: doi
-    value: 10.1016/j.cpc.2024.109355
-    description: >-
-      TNSP: A framework supporting symmetry and fermion
-      tensors for tensor network state methods
-  - type: doi
-    value: 10.17632/xvzvg6ktpc.1
-    description: CPC Library link to program files
-repository-code: 'https://github.com/USTC-TNS/TNSP'
-license: GPL-3.0-or-later
+references:
+  - title: >-
+      TNSP: A framework supporting symmetry and fermion tensors for tensor network state methods
+    type: journalArticle
+    database: DOI.org (Crossref)
+    date-accessed: 2024-09-06T07:32:10Z
+    issn: 00104655
+    journal: Computer Physics Communications
+    languages:
+      - en
+    pages: 109355
+    volume: 305
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0010465524002789
+    authors:
+      - family-names: Zhang
+        given-names: Hao
+      - family-names: Dong
+        given-names: Shaojun
+      - family-names: Wang
+        given-names: Chao
+      - family-names: Zhang
+        given-names: Meng
+      - family-names: He
+        given-names: Lixin
+    editors:
+      - family-names: Zhang
+        given-names: Hao
+      - family-names: Dong
+        given-names: Shaojun
+      - family-names: Wang
+        given-names: Chao
+      - family-names: Zhang
+        given-names: Meng
+      - family-names: He
+        given-names: Lixin
+    recipients:
+      - family-names: Zhang
+        given-names: Hao
+      - family-names: Dong
+        given-names: Shaojun
+      - family-names: Wang
+        given-names: Chao
+      - family-names: Zhang
+        given-names: Meng
+      - family-names: He
+        given-names: Lixin
+    translators:
+      - family-names: Zhang
+        given-names: Hao
+      - family-names: Dong
+        given-names: Shaojun
+      - family-names: Wang
+        given-names: Chao
+      - family-names: Zhang
+        given-names: Meng
+      - family-names: He
+        given-names: Lixin
+    date-published: 2024-12
+    identifiers:
+      - type: doi
+        value: 10.1016/j.cpc.2024.109355
