@@ -19,39 +19,6 @@ authors:
     given-names: Meng
   - family-names: He
     given-names: Lixin
-editors:
-  - family-names: Zhang
-    given-names: Hao
-  - family-names: Dong
-    given-names: Shaojun
-  - family-names: Wang
-    given-names: Chao
-  - family-names: Zhang
-    given-names: Meng
-  - family-names: He
-    given-names: Lixin
-recipients:
-  - family-names: Zhang
-    given-names: Hao
-  - family-names: Dong
-    given-names: Shaojun
-  - family-names: Wang
-    given-names: Chao
-  - family-names: Zhang
-    given-names: Meng
-  - family-names: He
-    given-names: Lixin
-translators:
-  - family-names: Zhang
-    given-names: Hao
-  - family-names: Dong
-    given-names: Shaojun
-  - family-names: Wang
-    given-names: Chao
-  - family-names: Zhang
-    given-names: Meng
-  - family-names: He
-    given-names: Lixin
 date-published: 2024-12
 identifiers:
   - type: doi
