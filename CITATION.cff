@@ -4,6 +4,7 @@ title: TNSP: A framework supporting symmetry and fermion tensors for tensor netw
 authors:
   - family-names: Zhang
     given-names: Hao
+  - name: name
 version: 0.11.2
 date-released: "2021-07-18"
 identifiers:
