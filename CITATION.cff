@@ -1,5 +1,30 @@
 cff-version: 1.0.0
 message: Please cite the following works when using this software.
+abstract: Tensor Network State Packages
+authors:
+  - given-names: Hao
+    family-names: Zhang
+  - given-names: Shaojun
+    family-names: Dong
+  - given-names: Chao
+    family-names: Wang
+  - given-names: Meng
+    family-names: Zhang
+  - given-names: Lixin
+    family-names: He
+date-released: 2024-09-06
+keywords:
+  - peps
+  - tensor
+  - mps
+  - tensor-networks
+  - tensor-network
+  - tensornetwork
+license: GPL-3.0
+repository: https://github.com/USTC-TNS/TNSP
+title: TNSP
+url: https://github.com/USTC-TNS/TNSP
+version: 0.3.17
 references:
   - type: article
     abstract: >-
