@@ -80,4 +80,5 @@ references:
     publisher: Elsevier BV
     title: 'TNSP: A framework supporting symmetry and fermion tensors for tensor network state methods'
     url: https://www.sciencedirect.com/science/article/pii/S0010465524002789
+    version: 0.3.16
     volume: 305
