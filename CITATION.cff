@@ -50,15 +50,12 @@ references:
         family-names: Zhang
       - given-names: Shaojun
         family-names: Dong
-        email: sj.dong@iai.ustc.edu.cn
       - given-names: Chao
         family-names: Wang
       - given-names: Meng
         family-names: Zhang
       - given-names: Lixin
         family-names: He
-        email: helx@ustc.edu.cn
-    commit: f1c5b4f1ce6a639ea36fb12fa4788d377f418055
     contact:
       - given-names: Shaojun
         family-names: Dong
@@ -74,4 +71,13 @@ references:
       - Tensor network states
       - Fermion
       - Symmetry tensors
-    languages: en
+    languages:
+      - en
+    year: 2024
+    month: 08
+    start: 109355
+    end: 109355
+    publisher: Elsevier BV
+    title: 'TNSP: A framework supporting symmetry and fermion tensors for tensor network state methods'
+    url: https://www.sciencedirect.com/science/article/pii/S0010465524002789
+    volume: 305
