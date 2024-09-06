@@ -14,7 +14,23 @@ authors:
   - given-names: Lixin
     family-names: He
     email: helx@ustc.edu.cn
+contact:
+  - given-names: Shaojun
+    family-names: Dong
+    email: sj.dong@iai.ustc.edu.cn
+  - given-names: Lixin
+    family-names: He
+    email: helx@ustc.edu.cn
+date-released: 2024-09-06
+keywords:
+  - peps
+  - tensor
+  - mps
+  - tensor-networks
+  - tensor-network
+  - tensornetwork
 license: GPL-3.0
 repository: https://github.com/USTC-TNS/TNSP
 title: TNSP
 url: https://github.com/USTC-TNS/TNSP
+version: 0.3.17
