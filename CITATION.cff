@@ -13,13 +13,9 @@ authors:
   - family-names: He
     given-names: Lixin
 version: 0.3.16
-date-released: "2024-08-23"
+date-released: 2024-08-23
 identifiers:
-  - description: This is the collection of archived snapshots of all versions of My Research Software
-    type: doi
-    value: "10.5281/zenodo.123456"
-  - description: This is the archived snapshot of version 0.11.2 of My Research Software
-    type: doi
-    value: "10.5281/zenodo.123457"
+  - type: doi
+    value: 10.1016/j.cpc.2024.109355
 license: GPL-3.0
-repository-code: "https://github.com/USTC-TNS/TNSP"
+repository-code: https://github.com/USTC-TNS/TNSP
