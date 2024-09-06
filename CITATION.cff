@@ -1,21 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: If you use this software, please cite it using these metadata.
-title: 'TNSP: A framework supporting symmetry and fermion tensors for tensor network state methods'
+title: TNSP
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: Zhang
-    given-names: Hao
-  - family-names: Dong
-    given-names: Shaojun
-  - family-names: Wang
-    given-names: Chao
-  - family-names: Zhang
-    given-names: Meng
-  - family-names: He
-    given-names: Lixin
-version: 0.3.16
-date-released: 2024-08-23
+  - given-names: Hao
+    family-names: Zhang
+  - given-names: Shaojun
+    family-names: Dong
+    email: sj.dong@iai.ustc.edu.cn
+  - given-names: Chao
+    family-names: Wang
+  - given-names: Meng
+    family-names: Zhang
+  - given-names: Lixin
+    family-names: He
+    email: helx@ustc.edu.cn
 identifiers:
   - type: doi
     value: 10.1016/j.cpc.2024.109355
-license: GPL-3.0
-repository-code: https://github.com/USTC-TNS/TNSP
+    description: >-
+      TNSP: A framework supporting symmetry and fermion
+      tensors for tensor network state methods
+  - type: doi
+    value: 10.17632/xvzvg6ktpc.1
+    description: CPC Library link to program files
+repository-code: 'https://github.com/USTC-TNS/TNSP'
+license: GPL-3.0-or-later
