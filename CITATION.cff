@@ -25,8 +25,8 @@ repository: https://github.com/USTC-TNS/TNSP
 title: TNSP
 url: https://github.com/USTC-TNS/TNSP
 version: 0.3.17
-references:
-  - type: article
+preferred-citation:
+    type: article
     abstract: >-
       Recent advancements have established tensor network states (TNS) as formidable tools for exploring the
       complex realm of strongly-correlated many-particle systems in both one and two dimensions. To tackle the
