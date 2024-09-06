@@ -1,5 +1,4 @@
 cff-version: 1.2.0
-message: Please cite the following works when using this software.
 abstract: Tensor Network State Packages
 authors:
   - given-names: Hao
@@ -21,12 +20,13 @@ keywords:
   - tensor-network
   - tensornetwork
 license: GPL-3.0
+message: Please cite the following works when using this software.
 repository: https://github.com/USTC-TNS/TNSP
 title: TNSP
+type: software
 url: https://github.com/USTC-TNS/TNSP
 version: 0.3.17
 preferred-citation:
-  type: article
   abstract: >-
     Recent advancements have established tensor network states (TNS) as formidable tools for exploring the
     complex realm of strongly-correlated many-particle systems in both one and two dimensions. To tackle the
@@ -65,6 +65,13 @@ preferred-citation:
       email: helx@ustc.edu.cn
   date-published: 2024-08-23
   doi: 10.1016/j.cpc.2024.109355
+  identifiers:
+    - description: The work itself
+      type: doi
+      value: 10.1016/j.cpc.2024.109355
+    - description: CPC Library link to program files
+      type: doi
+      value: 10.17632/xvzvg6ktpc.1
   issn: 0010-4655
   journal: Computer Physics Communications
   keywords:
@@ -73,13 +80,14 @@ preferred-citation:
     - Symmetry tensors
   languages:
     - en
-  year: 2024
-  month: 08
+  publisher: Elsevier BV
   start: 109355
   end: 109355
-  publisher: Elsevier BV
   title: >-
     TNSP: A framework supporting symmetry and fermion tensors for tensor network state methods
+  type: article
   url: https://www.sciencedirect.com/science/article/pii/S0010465524002789
   version: 0.3.16
   volume: 305
+  year: 2024
+  month: 08
